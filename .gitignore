@@ -1,0 +1,18 @@
+# misc
+.env
+
+# Logs
+logs
+*.log
+
+# folders to ignore
+/downloads
+/plots
+/node_modules
+/data
+/logs
+/temp
+/llama.cpp
+
+*.csv
+*.xlsx
